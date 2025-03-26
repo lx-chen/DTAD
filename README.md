@@ -19,7 +19,7 @@ DATA_PATH/
     ...
 ```
 
-#### Step 2. Running ADDT
+#### Step 2. Running DTAD
 ```bash
 python train.py
 ```
